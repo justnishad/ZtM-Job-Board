@@ -11857,6 +11857,22 @@
       "state": "BC",
       "country": "Canada"
     }
+  },
+  {
+    "id": 836,
+    "name": "Nishad Raisinghani",
+    "img": "",
+    "links": {
+      "website": "justnishad.ml",
+      "linkedin": "https://www.linkedin.com/in/justnishad/",
+      "github": "https://www.github.com/justnishad/"
+    },
+    "jobTitle": "Software Development Engineer",
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India"
+    }
   }
 ]
 }
